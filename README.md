@@ -1,16 +1,20 @@
-### Hi there 👋
+# Eric Lombardo
+## Full Stack Software Engineer
 
-<!--
-**ericlombardo/ericlombardo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About
+- Passion for writting code that will have a positive impact on people in the physical world
+- Completed Flatiron's software engineering program in September of 2021
+- Located in Columbus Ohio 
 
-Here are some ideas to get you started:
+## Interested In
+- A job that will challenge me to grow as a developer and keep me excited about programming
+- Creating and collaborating on projects to help make me a better developer all around
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+Interested In Connecting?
+[LinkedIn](https://github.com/ericlombardo)
+[Email:](eric.m.lombardo@gmail.com)
+[Blog](https://eric-lombardo.medium.com/)
+
+
