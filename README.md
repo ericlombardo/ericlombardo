@@ -13,8 +13,9 @@
 
 
 Interested In Connecting?
+<br />
 [LinkedIn](https://github.com/ericlombardo)
-[Email:](eric.m.lombardo@gmail.com)
+[Email](eric.m.lombardo@gmail.com)
 [Blog](https://eric-lombardo.medium.com/)
 
 
