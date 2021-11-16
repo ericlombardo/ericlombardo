@@ -12,10 +12,10 @@
 
 
 
-Interested In Connecting?
-<br />
-[LinkedIn](https://github.com/ericlombardo)
-[Email](eric.m.lombardo@gmail.com)
-[Blog](https://eric-lombardo.medium.com/)
+Interested In Connecting?  <br />
+
+[LinkedIn](https://github.com/ericlombardo) <br />
+[Email: eric.m.lombardo@gmail.com](https://eric.m.lombardo@gmail.com)  <br />
+[Blog](https://eric-lombardo.medium.com/) <br />
 
 
